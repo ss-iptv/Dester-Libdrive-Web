@@ -35,7 +35,7 @@ class Footer extends Component {
             href="https://elias.eu.org"
             target="_blank"
           >
-            {`© 2021 Copyright: Elias Benbourenane - v${version} - Theme Dester`}
+            {`© 2021 Copyright: Elias Benbourenane - v${version} - Theme Dester (Elton Matic)`}
           </a>
         </footer>
       </div>
